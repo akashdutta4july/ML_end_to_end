@@ -14,5 +14,3 @@ class PredictionPipeline:
         prediction = self.model.predict(data)
 
         return prediction
-    
-    # 1123
